@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nikita-gupta-790a54284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nikita-gupta-790a54284" height="30" width="40" /></a>
-<a href="https://instagram.com/nikita.gupta06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikita.gupta06" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/gaze_scene_26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gaze_scene_26" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@nikitagpt06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nikitagpt06" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nikitagpt06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nikitagpt06" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nikita_gupta_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikita_gupta_19" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nikitazu5k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nikitazu5k" height="30" width="40" /></a>
+LinkedIn <a href="https://linkedin.com/in/www.linkedin.com/in/nikita-gupta-790a54284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nikita-gupta-790a54284" height="30" width="40" /></a><br>
+Instagram <a href="https://instagram.com/nikita.gupta06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikita.gupta06" height="30" width="40" /></a><br>
+CodeChef <a href="https://www.codechef.com/users/gaze_scene_26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gaze_scene_26" height="30" width="40" /></a>
+HackerRank <a href="https://www.hackerrank.com/@nikitagpt06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nikitagpt06" height="30" width="40" /></a><br>
+CodeForces <a href="https://codeforces.com/profile/nikitagpt06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nikitagpt06" height="30" width="40" /></a><br>
+Leetcode <a href="https://www.leetcode.com/nikita_gupta_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikita_gupta_19" height="30" width="40" /></a><br>
+GFG <a href="https://auth.geeksforgeeks.org/user/nikitazu5k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nikitazu5k" height="30" width="40" /></a><br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
