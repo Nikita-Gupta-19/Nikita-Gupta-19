@@ -38,7 +38,7 @@
 
 ---
 
-### 🏆 Competitive Programming
+### 🏆 Competitive Programming:
 
 <p align="center">
   <a href="https://github.com/nikita-gupta-19">
@@ -154,7 +154,7 @@
 ---
 
 
-### ✨ Fun Fact
+### ✨ Fun Fact:
 <table align="center">
   <tr>
     <td>
