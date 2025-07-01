@@ -1,89 +1,154 @@
 <!-- Profile README -->
-
-<h1 align="center">Hi 👋, I'm Nikita Gupta</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> I'm Nikita Gupta</h1>
 <h3 align="center">🚀 A passionate Full Stack Web Developer & Aspiring Software Engineer from India</h3>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=440&lines=CSE+Student;Full+Stack+Developer;DSA+Enthusiast;Learning+Everyday..." alt="Typing SVG"/>
-</div>
-
----
-
-### 🌐 Connect with Me
-
+<br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/nikita-gupta-790a54284/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/nikita.gupta06"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:nikitagpt06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0FB7FF&center=true&vCenter=true&width=1050&lines=🚀+Welcome+to+My+Dev+Universe+🚀;B.Tech+CSE+Student;DSA+Enthusiast+%7C+Full+Stack+Developer+%7C+Lifelong+Learner" />
 </p>
 
 ---
 
-### 💻 Tech Stack
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nikita-Gupta-19&label=Profile%20views&color=0e75b6&style=flat" alt="Nikita-Gupta-19" /> </p>
 
-#### 🧠 Languages
-<p>
-  <img src="https://img.icons8.com/color/48/c-programming.png" title="C"/>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++"/>
-  <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>
-  <img src="https://img.icons8.com/offices/40/php-logo.png" title="PHP"/>
+### 🏆 GitHub Trophies:
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app?username=Nikita-Gupta-19&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </p>
 
-#### 🎨 Frontend
-<p>
-  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML"/>
-  <img src="https://img.icons8.com/color/48/css3.png" title="CSS"/>
-  <img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap"/>
-  <img src="https://img.icons8.com/color/48/angularjs.png" title="Angular"/>
-  <img src="https://img.icons8.com/officel/48/react.png" title="React"/>
-</p>
+---
 
-#### 🔧 Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-</p>
+- 🎯 **Internship**: Currently working as a **Data Science Intern** at Unified Mentor. 🚀
 
-#### 🛢️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
-</p>
+- 🤝 I’m looking to collaborate on making **Web Applications in MERN stack.**
 
-#### 🧰 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" />
-</p>
+--- 
+
+### 📩 Connect with Me 🤝:
+<div align="left">
+  <a href="https://www.linkedin.com/in/nikita-gupta-790a54284/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:nikitagpt06@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="50" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/nikita.gupta06/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="50" alt="instagram logo"  />
+  </a>
+</div>
 
 ---
 
 ### 🏆 Competitive Programming
 
 <p align="center">
-  <a href="https://github.com/nikita-gupta-19"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/gaze_scene_26"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/></a>
-  <a href="https://leetcode.com/nikita_gupta_19"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.hackerrank.com/@nikitagpt06"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/nikitagpt06"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/nikitazu5k"><img src="https://img.shields.io/badge/GFG-14A800?style=flat-square&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://github.com/nikita-gupta-19">
+    <span style="display:inline-block; transform:scale(1.5); margin-right:5px;">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    </span>
+  </a>
+  <a href="https://www.codechef.com/users/gaze_scene_26">
+    <span style="display:inline-block; transform:scale(1.5); margin-right:5px;">
+      <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"/>
+    </span>
+  </a>
+  <a href="https://leetcode.com/nikita_gupta_19">
+    <span style="display:inline-block; transform:scale(1.5); margin-right:5px;">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    </span>
+  </a>
+  <a href="https://www.hackerrank.com/@nikitagpt06">
+    <span style="display:inline-block; transform:scale(1.5); margin-right:5px;">
+      <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+    </span>
+  </a>
+  <a href="https://codeforces.com/profile/nikitagpt06">
+    <span style="display:inline-block; transform:scale(1.5); margin-right:5px;">
+      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/>
+    </span>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/nikitazu5k">
+    <span style="display:inline-block; transform:scale(1.5); margin-right:5px;">
+      <img src="https://img.shields.io/badge/GFG-14A800?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
+    </span>
+  </a>
 </p>
+
 
 ---
 
-### 📊 GitHub Stats
+### 🧠 Tech Stack Highlights:
 
+#### 📦💻 Frameworks:
+<!-- FRONTEND STACK -->
+<h5>Frontend</h5>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="55" alt="html5 logo" title="HTML" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=css" height="55" alt="css3 logo" title="CSS" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo" title="React.js" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=angular" height="55" alt="angular logo" title="Angular" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="tailwindcss logo" title="Tailwind CSS" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=redux" height="55" alt="redux logo" title="Redux" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="55" alt="bootstrap logo" title="Bootstrap" />
+</div>
+
+<!-- BACKEND STACK -->
+<h5>Backend</h5>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="nodejs logo" title="Node.js" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=express" height="55" alt="express logo" title="Express.js" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="55" alt="nextjs logo" title="Next.js" />
+</div>
+
+<!-- DATABASE STACK -->
+<h5>Database</h5>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="mysql logo" title="MySQL" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="mongodb logo" title="MongoDB" /> 
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="55" alt="postgresql logo" title="PostgreSQL" />
+</div>
+
+#### 🌍👨‍💻 Languages:
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="55" alt="c logo" title="C" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="cplusplus logo" title="C++" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo" title="Python" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo" title="JavaScript" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=php" height="55" alt="php logo" title="PHP" />
+</div>
+
+#### 🛠️ Tools:
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="vscode logo" title="VS Code" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo" title="Git" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=github" height="55" alt="github logo" title="GitHub" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=figma" height="55" alt="figma logo" title="Figma" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=ps" height="55" alt="photoshop logo" title="Adobe Photoshop" />
+</div>
+
+---
+### 📈📊 GitHub Stats & Activity:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikita-gupta-19&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikita-gupta-19&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikita-gupta-19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikita-gupta-19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="160" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=nikita-gupta-19&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="160" alt="GitHub Streak" />
 </div>
 
 ---
@@ -96,17 +161,8 @@
 
 > *"I debug more bugs than I write bugs."*
 
----<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+---
+
+### 🐍 Snake Game Contribution Chart:
+![snake gif](https://github.com/Nikita-Gupta-19/Nikita-Gupta-19/blob/output/github-snake-dark.svg)
+
