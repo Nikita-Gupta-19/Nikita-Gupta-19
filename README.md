@@ -153,14 +153,22 @@
 
 ---
 
-### ✨ Fun Fact
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdhc3l6amN6a2tjYTF6aHFvdXh6Y2NwcGNnaDhlM3RkZTZkZ2F1MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300" />
-</p>
+### ✨ Fun Fact
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdhc3l6amN6a2tjYTF6aHFvdXh6Y2NwcGNnaDhlM3RkZTZkZ2F1MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300" />
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+    </td>
+  </tr>
+</table>
+
+<br>
 
 > *"I debug more bugs than I write bugs."*
-
 ---
 
 ### 🐍 Snake Game Contribution Chart:
