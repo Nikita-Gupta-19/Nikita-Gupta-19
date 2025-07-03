@@ -148,8 +148,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikita-gupta-19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikita-gupta-19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="160" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=nikita-gupta-19&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="160" alt="GitHub Streak" />
-</div>
+
+  ![GitHub Streak](https://github-readme-streak-git-32433b-nikitagpt06-gmailcoms-projects.vercel.app?user=nikita-gupta-19&theme=radical&hide_border=false&border_radius=5)
+
+
+ </div>
 
 ---
 
