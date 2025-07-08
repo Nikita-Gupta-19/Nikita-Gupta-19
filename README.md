@@ -1,6 +1,6 @@
 <!-- Profile README -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> I'm Nikita Gupta</h1>
-<h3 align="center">🎯 An Aspiring Software Engineer from India</h3>
+<h3 align="center">🎯 An Aspiring Software Engineer from JIIT Noida, Sec 62</h3>
 <br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0FB7FF&center=true&vCenter=true&width=1050&lines=🚀+Welcome+to+Nikita's+Dev+Universe+🚀;👩‍💻+B.Tech+CSE+Student+📖;DSA+Enthusiast+%7C+Full+Stack+Developer+%7C+Lifelong+Learner" />
